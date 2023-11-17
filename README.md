@@ -100,8 +100,8 @@ Menambahkan variable pada program.
 
 ```php
 <?php
-    $nim = "312210337";
-    $nama = 'Rini Ariza';
+    $nim = "312210303";
+    $nama = 'Muhammad Reza Maulana';
     echo "NIM : " . $nim . "<br>";
     echo "Nama : $nama";
     ?>
