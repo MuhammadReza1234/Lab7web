@@ -1,8 +1,8 @@
 <h1 <p align="center"><b>Praktikum 7</b></p></h1> 
 
-**Nama: Rini Ariza**
+**Nama: Muhammad Reza Maulana**
 
-**NIM: 312210337**
+**NIM: 312210303**
 
 **Kelas: TI.22.A3**
 
@@ -21,7 +21,7 @@ Unduh XAMPP dari https://www.apachefriends.org/download.html dan pilih versi
 portable untuk memudahkan proses installasi. Kemudian extract file tersebut, seusikan
 direktorinya (misal: c:\xampp).
 
-![Screenshot (442)](https://github.com/rniarzz/Lab7web/assets/115542704/9dbf02a5-5a03-4094-9076-7bc6319b0896)
+![Screenshot (442)](https://github.com/MuhammadReza1234/Lab7web/assets/115516607/b2bc22f3-3c0c-49ff-bdfb-80700af0e432)
 
 ---
 
@@ -41,7 +41,7 @@ Lokasi file: \xampp\php\php.ini
 Konfigurasi server MySQL, seperti administrator user, port, timezone, dll.
 Lokasi file: \xampp\mysql\bin\my.ini
 
-![Screenshot (443)](https://github.com/rniarzz/Lab7web/assets/115542704/2ce9e395-302e-45ec-aa31-1e25936b901d)
+![Screenshot (443)](https://github.com/MuhammadReza1234/Lab7web/assets/115516607/30a57d6a-ad58-4a19-8b44-61ad9045fd78)
 
 ---
 
@@ -60,14 +60,14 @@ Manajemen database: http://localhost/phpmyadmin
 ## Memulai PHP
 Buat folder lab7_php_dasar pada root directory web server (d:\xampp\htdocs)
 
-![Screenshot (444)](https://github.com/rniarzz/Lab7web/assets/115542704/a08cdfe8-10a9-4ab9-af57-a9da8b05a0e0)
+![Screenshot (444)](https://github.com/MuhammadReza1234/Lab7web/assets/115516607/04326d45-f068-41e3-95f8-9a2f512c162c)
 
 ---
 
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/
 
-![Screenshot (376)](https://github.com/rniarzz/Lab7web/assets/115542704/ae2860f7-0561-4fad-b5ee-1cb3395de2eb)
+![Screenshot (376)](https://github.com/MuhammadReza1234/Lab7web/assets/115516607/d6ed0d49-5d91-41a4-b631-1d420ef6a2c4)
 
 ---
 
@@ -90,7 +90,8 @@ Kemudian untuk mengakses hasilnya melalui URL:
 http://localhost/lab7_php_dasar/php_dasar.php
 
 # Hasil output
-![Screenshot (377)](https://github.com/rniarzz/Lab7web/assets/115542704/db80362d-f7bf-4d06-88ae-064c3d49a0ef)
+
+![Screenshot (377)](https://github.com/MuhammadReza1234/Lab7web/assets/115516607/c62f9d78-7912-480e-8c18-66bfe12911ff)
 
 ---
 
@@ -109,7 +110,7 @@ Menambahkan variable pada program.
 
 # Hasil output
 
-![Screenshot (378)](https://github.com/rniarzz/Lab7web/assets/115542704/7878aa91-1960-4bd7-b16a-f06ec84da024)
+<img width="883" alt="Cuplikan layar 2023-11-17 213722" src="https://github.com/MuhammadReza1234/Lab7web/assets/115516607/0bd85bdd-553d-44d8-97b0-aa6245c68032">
 
 ---
 
@@ -127,7 +128,7 @@ Predefine Variable $_GET
 
 # Hasil output
 
-![Screenshot (379)](https://github.com/rniarzz/Lab7web/assets/115542704/ac384dce-6d0c-4dbe-916d-b19763c4c75b)
+<img width="888" alt="Cuplikan layar 2023-11-17 214422" src="https://github.com/MuhammadReza1234/Lab7web/assets/115516607/363533ee-6718-411b-bc58-b40c7b0dcba9">
 
 ---
 
@@ -157,7 +158,7 @@ echo 'Selamat Datang ' . $_POST['nama'];
 
 # Hasil output
 
-![Screenshot (380)](https://github.com/rniarzz/Lab7web/assets/115542704/4259b9fc-7a12-4784-a3ed-ee063daf2395)
+<img width="720" alt="Cuplikan layar 2023-11-16 230454" src="https://github.com/MuhammadReza1234/Lab7web/assets/115516607/c36acf4b-f9c8-43f3-85c7-4c35297a9e25">
 
 ---
 
@@ -217,7 +218,8 @@ switch ($nama_hari) {
 
 # Hasil output
 
-<img width="960" alt="Cuplikan layar 2023-11-16 223147" src="https://github.com/rniarzz/Lab7web/assets/115542704/8687a568-1ab7-4e93-a6df-66875c60879b">
+<img width="720" alt="Cuplikan layar 2023-11-16 230453" src="https://github.com/MuhammadReza1234/Lab7web/assets/115516607/9b22b940-487d-4adf-b663-251534db9c96">
+
 
 # Perulangan for
 
@@ -238,7 +240,7 @@ for ($i=10; $i>=1; $i--) {
 
 # Hasil output
 
-<img width="960" alt="Cuplikan layar 2023-11-16 223525" src="https://github.com/rniarzz/Lab7web/assets/115542704/f0058202-16d5-4314-a64e-c0cfd65d4214">
+![Screenshot (446)](https://github.com/MuhammadReza1234/Lab7web/assets/115516607/a7adb5c6-dc82-42b8-92dc-611b41887ff1)
 
 ---
 
@@ -259,7 +261,7 @@ while ($i<=10) {
 
 # Hasil output
 
-<img width="960" alt="Cuplikan layar 2023-11-16 223947" src="https://github.com/rniarzz/Lab7web/assets/115542704/c2352591-58a8-493d-87b8-9693952a3e08">
+<img width="919" alt="Cuplikan layar 2023-11-16 223947" src="https://github.com/MuhammadReza1234/Lab7web/assets/115516607/9de8b098-b1a0-480a-a39e-f2130c3ede05">
 
 ---
 
@@ -282,7 +284,7 @@ $i++;
 
 # Hasil output
 
-<img width="958" alt="Cuplikan layar 2023-11-16 224149" src="https://github.com/rniarzz/Lab7web/assets/115542704/d37d2bb1-dd41-4403-a075-506ce11e340a">
+<img width="936" alt="Cuplikan layar 2023-11-16 224149" src="https://github.com/MuhammadReza1234/Lab7web/assets/115516607/1ec59159-dde9-4cc9-a2bd-6105d873f461">
 
 ---
 
@@ -392,9 +394,9 @@ Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nam
 
 # Hasil output
 
-![Screenshot (440)](https://github.com/rniarzz/Lab7web/assets/115542704/bb65f331-7c30-4955-8a19-78a1a8f1b518)
+<img width="960" alt="Cuplikan layar 2023-11-16 231222" src="https://github.com/MuhammadReza1234/Lab7web/assets/115516607/72ab6944-520c-4ad7-af03-cfb3a97c9e70">
 
-![Screenshot (441)](https://github.com/rniarzz/Lab7web/assets/115542704/ad5a76e6-0849-4535-98a5-5a57a834cbdc)
+<img width="960" alt="Cuplikan layar 2023-11-16 230959" src="https://github.com/MuhammadReza1234/Lab7web/assets/115516607/dc38c3bd-90e1-4f75-af79-b56f671e3661">
 
 ---
 
