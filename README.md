@@ -132,7 +132,7 @@ Predefine Variable $_GET
 
 ---
 
-Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/php_dasar.php?nama=Rini%20Ariza
+Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/php_dasar.php?nama=Muhammad%20Reza%20maulana
 
 ## Membuat Form Input
 
